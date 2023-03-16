@@ -40,7 +40,7 @@
     - Only vacancies are at the bottom, to the right
 - A binary heap with n nodes has height O(log n)
 
-[Image of Complete Tree]
+<img width="625" alt="Screenshot 2023-03-16 at 4 00 36 AM" src="https://user-images.githubusercontent.com/91937163/225597398-816203b9-f044-4994-a533-9e424a479b27.png">
 
 ### Heap Property
 - key(parent) < key(child) at all nodes (Min Heap)
@@ -96,7 +96,7 @@ IncreaseKey(element, amount):
 
 ## Array Representation
 
-[image of array representation]
+<img width="893" alt="Screenshot 2023-03-15 at 8 56 49 PM" src="https://user-images.githubusercontent.com/91937163/225597505-d2a0b218-3789-444c-9de8-834e5ca04833.png">
 
 - for parent i
     - left child = 2i
